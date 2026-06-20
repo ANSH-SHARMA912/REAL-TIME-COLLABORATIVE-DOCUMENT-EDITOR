@@ -9,6 +9,8 @@
 
 *OUTPUT*:
 
+![image align](https://github.com/ANSH-SHARMA912/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/68c3f4de160aff2da85de6fd569a1d5a25cad44f/Screenshot%202026-06-20%20155627.png)
+
 A **Real-Time Collaborative Document Editor** built using **React.js**, **Node.js**, **WebSockets (Socket.IO)**, and **MongoDB**, allowing multiple users to edit documents simultaneously with instant synchronization.
 
 ---
